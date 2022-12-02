@@ -1,1 +1,1 @@
-"# m6_competition" 
+# m6_competition
