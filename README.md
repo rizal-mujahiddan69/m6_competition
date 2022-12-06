@@ -1,6 +1,11 @@
 # m6_competition
 
+### Deskripsi Dataset
+
+### Hal yang perlu dilakukan
+
 - Frontend
   - Css-html-js-minify
 - Learning Book
-  - ~~[rizal](<Time_Series_Forecasting_in_Python_(Marco_Peixeiro).pdf>)~~
+  - [Time Series Forecasting in python](https://www.manning.com/books/time-series-forecasting-in-python-book)
+  -
