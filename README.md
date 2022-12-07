@@ -8,4 +8,5 @@
   - Css-html-js-minify
 - Learning Book
   - [Time Series Forecasting in python](https://www.manning.com/books/time-series-forecasting-in-python-book)
+  - https://medium.com/analytics-vidhya/functional-api-model-with-tensorflow-2-0-y-network-ed59bfd810
   -
